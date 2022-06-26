@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Imagem Dinamica </h1>
+    <p>Abra o programa em aparelhos diferentes ou apenas aumente e diminua a pagina na web</p>
+    <picture>
+        <source media="(max-width: 750px )" srcset="imagens/img-p.png" type="image/png">
+        <source media="(max-width:1050px )" srcset="imagens/img-m.png" type="image/png">
+        <img src="imagens/img-g.png" alt="">
+    </picture>
+    <h2>Gerando audios</h2>
+    <p>Vamos aprender a colocar audio </p>
+    <audio src="midias/msc.mp3" controls autoplay></audio>
+    
+    <source src="midias/msc.mp3" type="audio/mpeg">
+    <source src="midias/msc.ogg" type="audio/ogg">
+    <source src="midias/msc.wav" type="audio/wav">
+
+</body>
+</html>

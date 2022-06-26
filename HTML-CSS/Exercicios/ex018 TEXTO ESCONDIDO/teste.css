@@ -1,0 +1,25 @@
+li{
+    list-style-type: none;
+    background-color: rgb(255, 119, 119);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+a::before{
+    content: '↪';
+}
+
+.especial::after{
+    content:'↩';
+}
+
+body{
+    background-color: rgb(124, 124, 124);
+}

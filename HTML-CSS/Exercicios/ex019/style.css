@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+h1{
+    background-color: rgb(143, 149, 155);
+    height: 300px;
+    width: 300px;
+    border: 5px solid lightcoral;
+    padding: 5px;
+    margin: auto;
+}
+
+a{
+    border: 5px solid sandybrown;
+}

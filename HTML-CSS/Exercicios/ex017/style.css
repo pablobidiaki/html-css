@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to right ,rgb(67, 167, 0) ,rgb(185, 236, 0));
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+   color: rgb(136, 127, 255); 
+}
+
+h2{
+    color: rgb(231, 14, 14);
+}
+
+#titulo{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+.basico{
+    color: rgb(77, 102, 77);
+}
+
+.intermediario{
+    color: rgb(255, 255, 148);
+}
+
+.avancado{
+    color: rgb(255, 157, 157);
+}

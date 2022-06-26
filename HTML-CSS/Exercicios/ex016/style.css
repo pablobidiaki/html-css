@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Barlow+Condensed:wght@100&family=Cookie&family=Kalam:wght@300&family=Kaushan+Script&family=Saira+Condensed:wght@100&family=Tajawal:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Barlow+Condensed:wght@100&family=Cookie&family=Kalam:wght@300&family=Roboto:wght@100&family=Saira+Condensed:wght@100&family=Tajawal:wght@200&display=swap');
+
+body{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: 'Kaushan Script';
+    font-size: 3em;
+}
+
+h2{
+    font-family: 'Kaushan Script';
+    font-size: 2em;
+}

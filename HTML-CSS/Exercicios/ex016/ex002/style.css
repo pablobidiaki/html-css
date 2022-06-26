@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'love';
+    src: url('fontes/love story ttf.ttf');
+}
+
+h1{
+    font-family: 'love';
+}

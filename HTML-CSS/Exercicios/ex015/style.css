@@ -1,0 +1,15 @@
+body{
+ /* 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    font-weight: 100;
+    font-style:italic;
+    
+todos esses codigos acima podem ser colocados em uma so linha 
+ */
+    font: italic 100 2em 'Courier New';
+}
+
+h1 , h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

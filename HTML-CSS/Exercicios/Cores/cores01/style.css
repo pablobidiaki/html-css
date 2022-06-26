@@ -1,0 +1,7 @@
+*{
+    height: 100%;
+}
+
+body{
+    background-image: linear-gradient(to top, rgb(87, 87, 87),rgb(214, 7, 7));
+}

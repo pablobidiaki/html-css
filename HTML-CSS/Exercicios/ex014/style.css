@@ -1,0 +1,15 @@
+body{
+    width: 600px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: right;
+}
+
+p{
+    text-align: justify;
+}
