@@ -2,6 +2,7 @@ body{
     background-color: black;
     background-image: url('imgs/wallpaper002.jpg');
     background-size: cover;
+    background-attachment: fixed;
     height: 90vh;
 }
 
