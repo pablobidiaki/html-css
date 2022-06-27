@@ -1,0 +1,19 @@
+#grande{
+    background-color: purple;
+    background-size: 100% 100%;
+    position: relative;
+    height: 96vh;
+    background-image: url('imgs/target001.png');
+}
+
+#pequeno{
+    background-color: yellow;
+    background-size: 100% 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 200px;
+    background-image: url('imgs/target001.png');
+}
