@@ -1,0 +1,28 @@
+.quad{
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px ;
+    background-image:url('imgs/wallpaper003.jpg');
+    background-repeat: no-repeat;
+}
+
+#i1{
+    background-position: center center;
+}
+
+#i2{
+    background-position: left center;
+}
+
+#i3{
+    background-position: bottom left;
+}
+
+#i4{
+    background-position: right top;
+}
+
+#i5{
+    background-position: right bottom;
+}
