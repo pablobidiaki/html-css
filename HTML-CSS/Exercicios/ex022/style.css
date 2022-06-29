@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    width: 400px;
+    height: 400px;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid black;
+    vertical-align: top;
+    text-align: center;
+
+}
+
+.cor{
+    background-color: lightgray;
+}
+

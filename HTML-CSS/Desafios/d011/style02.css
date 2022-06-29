@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+    border-collapse: collapse;
+    width: 400px;
+    margin: auto;
+}
+
+td{
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
