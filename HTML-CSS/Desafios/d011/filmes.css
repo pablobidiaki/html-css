@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    width: 500px;
+    margin: auto;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.laranja{
+    background-color: orange;
+}
